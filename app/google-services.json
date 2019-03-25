@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "390623696092",
+    "firebase_url": "https://nfcpay-2f508.firebaseio.com",
+    "project_id": "nfcpay-2f508",
+    "storage_bucket": "nfcpay-2f508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390623696092:android:07f62c71254afbb6",
+        "android_client_info": {
+          "package_name": "com.example.longhan.nfcpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390623696092-6afmr52im35vm5bvs9evsgk5ov05hfkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.longhan.nfcpay",
+            "certificate_hash": "b803923b32f6323fcedc8e2da9596f85fad8fa41"
+          }
+        },
+        {
+          "client_id": "390623696092-bacd0fatcttik0b9uf7i46h33ftsmlc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVV3Fb0jmoPnGd1LSFMUZ-aornslncS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390623696092-bacd0fatcttik0b9uf7i46h33ftsmlc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
